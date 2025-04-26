@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Inga Maholwana
 - 👀 I’m interested in learning to play the piano and mountain biking 
-- 🌱 I’m currently learning AWS cloud, react, cyber security and data analytics (they have simarities wasnt much of a jump for me)
+- 🌱 I’m currently learning AWS cloud, cybersecurity (my focus being application because of my background) and data engineering(Sql,python & visualization are fun)
 - 💞️ I’m looking to collaborate on projects that I can brag about solving and getting it done and done well
 - 📫 How to reach me ingamaholwana@gmail.com | https://www.linkedin.com/in/inga-maholwana/
 - 👨🏾‍🎨 I'm a part time UI/UX design for webapps and mobile applications I build from scratch https://www.figma.com/@inga45
